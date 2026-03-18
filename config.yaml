@@ -1,0 +1,19 @@
+# ─────────────────────────────────────────────
+# Article Automation Framework — Configuration
+# ─────────────────────────────────────────────
+
+# Application domain / URLs
+baseUrl: http://localhost:4200
+
+# Test user accounts
+users:
+  primary:
+    email: testuser001@nal.com
+    password: Password123!
+    username: testuser001
+
+  secondary:
+    email: testuser002@nal.com
+    password: Password123!
+    username: testuser002
+
