@@ -162,3 +162,8 @@ Random data is generated per run using `utils/testData.ts` to prevent conflicts 
 | `generateArticle()` | Unique title, description, body, tag |
 | `generateComment()` | Unique comment text |
 
+## AI Usage
+
+[utils/config.ts](utils/config.ts) was developed with the assistance of AI. This includes the implementation for loading and parsing the `config.yaml` file and exporting typed configuration values for use across the test suite.
+
+This README was also completed with some AI assistance.
